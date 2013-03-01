@@ -2,13 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication5;
+package transferPict;
 
 /**
  *
  * @author d.fedorov
  */
-public class JavaApplication5 {
+public class Main {
 
     /**
      * @param args the command line arguments
