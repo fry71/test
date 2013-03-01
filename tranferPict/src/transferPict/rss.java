@@ -10,7 +10,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author d.fedorov
  */
-public class XML {
+public class rss {
      
     
     private int id;
